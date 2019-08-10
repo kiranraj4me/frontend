@@ -1,0 +1,8 @@
+.custom-drop{
+	top:10% !important;
+	left: 75% !important;
+}
+
+.custom-drop:before{
+	left:80% !important;
+}
